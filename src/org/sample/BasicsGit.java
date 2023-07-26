@@ -6,6 +6,12 @@ public class BasicsGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("I'm the new project");
+		
+
+
+		System.out.println("I'm the B project");
+		
+		
 	}
 
 }
