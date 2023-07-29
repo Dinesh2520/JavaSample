@@ -11,11 +11,11 @@ public class BasicsGit {
 		int a = 23;
 
 		System.out.println("the value of a is :" + a);
-		
-		
-		
 
 		System.out.println("I'm the B project");
+		String s = "Im the new code";
+		int length = s.length();
+		System.out.println(length);
 
 	}
 
