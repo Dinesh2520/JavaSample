@@ -16,6 +16,9 @@ public class BasicsGit {
 		String s = "Im the new code";
 		int length = s.length();
 		System.out.println(length);
+		
+		
+		System.out.println("Hi balaji");
 
 	}
 
